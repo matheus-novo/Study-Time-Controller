@@ -1,6 +1,9 @@
 # Study Time Controller
 Um aplicativo mobile, desenvolvido na Unity, com o propósito de monitorar o tempo de uma determinada atividade, baseado no método de Pomodoro.
 
+## Baixe o APK
+![Baixe](https://github.com/matheus-novo/assets/blob/master/StudyTimeController.apk)
+
 ## Tela Inicial
 
 Nessa tela, você pode iniciar uma nova atividade ou vizualizar suas atividades salvas
