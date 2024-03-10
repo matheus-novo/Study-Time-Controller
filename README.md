@@ -2,7 +2,7 @@
 Um aplicativo mobile, desenvolvido na Unity, com o propósito de monitorar o tempo de uma determinada atividade, baseado no método de Pomodoro.
 
 ## Baixe o APK
-![Baixe](https://github.com/matheus-novo/assets/blob/master/StudyTimeController.apk)
+https://github.com/matheus-novo/assets/blob/master/StudyTimeController.apk
 
 ## Tela Inicial
 
